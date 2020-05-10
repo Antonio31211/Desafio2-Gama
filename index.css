@@ -1,0 +1,51 @@
+body{
+    background-color: navajowhite;
+    display: flex;
+    min-height: 100%;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+#logoprincipal{
+    width: 20%;    
+    margin-bottom: 2%;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+#rodape{
+    text-align: center;
+}
+
+#img{
+    border-radius: 10px;
+    border:black 1px solid;
+}
+
+#link{
+    float: right;
+    margin-bottom: 2%;
+    margin-top: 5%;
+    margin-right: 10%;
+    color: brown;
+}
+
+#links{
+    float: left;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    margin-right: 2%;
+    color: brown;
+}
+
+
+
